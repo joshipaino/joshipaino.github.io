@@ -1,44 +1,31 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/nse_icon.png
+title: National Student Exchange Program
+permalink: projects/nse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019 - 2020
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Networking
+  - Travel
+summary: Attended California State University at Northridge as part of the National Student Exchange Program.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+<img class="ui medium right floated rounded image" src="../images/nse_1.png">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The National Student Exchange program is an opportunity for college students to explore and attend participating institutions across different locations across the U.S.  Normally the duration of one's exchange usually lasts for one semester, however, I decided to participate in the program for a year (Fall 2019 - Spring 2020).  The opportunity to attend a new university provided unique opportunities such as living in a new environment, meeting new individuals, and participating in events exclusive to the campus. 
 
-Here is some code that illustrates how we read values from the line sensors:
+<img class="ui medium right floated rounded image" src="../images/nse_2.png">
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+During my time at CSU: Northridge, I was able to adjust to a different lifestyle after personally living in Hawaii for most of my life.  This adjustment allowed me to broaden my perspective of how people operate and communicate with one another in these new settings such as how  ACM @ CSUN operates slightly different than from ACM @ Manoa.  I discovered new problems that are yet to be solved in the area such as environmental issues.  However, I also discovered new opportunities to explore which included potentially working with new start-ups.  I also conversed with local companies and guest speakers who came to the campus for networking potential.  To return back to UH: Manoa with these new experiences allowed me to gain new insight about the world and the college education system that I would have otherwise not have noticed.
+
+After my return as a full-time UH student, I also advertised this program to interested college and high school students through the means of social media as well as the creation of a video promotion.  As part of a scholarship, I try to further promote the program whenever requested by the program organizers
+
+
+For more information about NSE click [here](https://www.nse.org/).
 
 
 

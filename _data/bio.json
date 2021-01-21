@@ -64,7 +64,7 @@
         "MacOS",
         "Windows 10",
         "Unix",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
@@ -81,9 +81,9 @@
         "ICS 141",
         "ICS 211",
         "ICS 212",
-        "ICS 241"
+        "ICS 241",
       ]
-    }
+    },
     {
       "institution": "California State University, Northridge, CA",
       "area": "Computer Science (NSE Student)",
@@ -117,7 +117,7 @@
       "endDate": "2020-05-20",
       "summary": "Attened CSU Northridge for one academic year",
       "highlights": [
-        "Promoted the NSE program to UH students and highschool students",
+        "Promoted the NSE program to UH students and highschool students.",
         "Showcased experience on NSE social media platforms."
       ]
     },
@@ -139,7 +139,7 @@
       "title": "National Student Exchange Scholarship",
       "date": "2019-2020",
       "awarder": "Edwin T. Kam and Leilani Kam",
-      "summary": "Awarded to undergraduates to partcipate in the NSE Program"
+      "summary": "Awarded to undergraduates to partcipate in the NSE Program."
     }
   ],
   "references": [

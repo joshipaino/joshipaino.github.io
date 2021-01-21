@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "Joshua Paino",
-        "url": "www.linkedin.com/in/joshua-paino-8b1939203"
+        "url": "http://linkedin.com/in/joshua-paino-8b1939203"
       }
     ]
   },
@@ -110,9 +110,9 @@
   ],
   "volunteer": [
     {
-      "organization": "Student Exchange Program",
+      "organization": "National Student Exchange Program",
       "website": "https://www.nse.org/",
-      "position": "",
+      "position": "CSUN Full-time Student",
       "startDate": "2019-09-01",
       "endDate": "2020-05-20",
       "summary": "Attened CSU Northridge for one academic year",
@@ -129,7 +129,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Member, ACM Manoa, 2019-Present",
+        "Member, ACM Manoa, 2020-Present",
         "Member, ACM CSUN, 2019-2020",
       ]
     }

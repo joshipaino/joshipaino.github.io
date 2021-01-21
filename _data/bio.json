@@ -53,8 +53,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML/CSS",
+        "Python"
       ]
     },
     {
@@ -62,20 +62,34 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows 10",
+        "Unix",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-22",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 212",
+        "ICS 241"
+      ]
+    }
+    {
+      "institution": "California State University, Northridge, CA",
+      "area": "Computer Science (NSE Student)",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "2020-05-20",
       "gpa": "",
       "courses": [
       ]
@@ -83,41 +97,28 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Godiva Chocolatier",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-06-10",
+      "endDate": "2019-08-10",
+      "summary": "Produced and sold chocolate products",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Creating various chocolate items to customers.",
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "National Student Exchange Program",
+      "website": "https://www.nse.org/",
+      "position": "",
+      "startDate": "2019-09-01",
+      "endDate": "2020-05-20",
+      "summary": "Attened CSU Northridge for one academic year",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Promoted the NSE program to UH students and highschool students",
+        "Showcased experience on NSE social media platforms."
       ]
     },
     {
@@ -128,24 +129,17 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, ACM Manoa, 2019-Present",
+        "Member, ACM CSUN, 2019-2020",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "National Student Exchange Scholarship",
+      "date": "2019-2020",
+      "awarder": "Edwin T. Kam and Leilani Kam",
+      "summary": "Awarded to undergraduates to partcipate in the NSE Program"
     }
   ],
   "references": [

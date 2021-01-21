@@ -11,7 +11,7 @@ labels:
   - Presentation
   - Languages
   - Communication
-summary: A 3 month long research for IP394 that focuses on the presence of code-switching in English dominated environments
+summary: A 3 month long research for IP394 that focuses on the presence of code-switching in English dominated environments.
 ---
 
 <img class="ui medium left floated rounded image" src="../images/IP394project_1.png">

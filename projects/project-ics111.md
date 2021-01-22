@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ICS111proj_icon.png
+image: images/ICS111proj_1.png
 title: Surf Game
 permalink: projects/surf-game
 # All dates must be YYYY-MM-DD format!

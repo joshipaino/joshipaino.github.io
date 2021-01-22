@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/ICS111proj_1.png
-title: Surf Game
-permalink: projects/surf-game
+title: Surfing Game
+permalink: projects/surfing-game
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-26
 labels:
   - Java
   - EZ Library
   - Object Oriented Programming
-summary: A game made for ICS 111 that utilizes the EZ library.
+summary: A game made in Java for ICS 111 that utilizes the EZ library.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/ICS111proj_icon.png">

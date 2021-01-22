@@ -9,7 +9,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui medium center floated image" src="../images/javascript_icon.jpg">
+<img class="ui medium center floated image" src="../images/javascript_icon.png">
 
 
 To dabble with Javascript with barely any experience was to go against the practices that I have been accustomed to due to experiences with C, C++, and Java.  The feature set that Javascript and ES6 provided was convenient as it was jarring.  Yet, after going through the free lessons provided by freecodecamp.org and engaging in practice coding problems, I came to ultimately appreciate the quirks that Javascript provided.  The uniqueness of Javascript provides a different take on what has become the norm in other languages.

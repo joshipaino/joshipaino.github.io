@@ -29,7 +29,7 @@ Immediately from the first word in the title, the user violates the principle th
 
 ## Directions to the Destination
 
-As StackOverflow is a platform for meaningless questions, the forum site is also a platform for meaningful discussion.  After all, such questions are what demonstrates the value of online community forums.  Therefore, if there are questions that do not get viewers or the user anywhere, then what is a question that gets them to their desired destination?  To begin with, a smart question is one that does not center around the topic of one's homework, but rather one that centers around one's curiosity. 
+As StackOverflow is a platform that may contain not so smart questions, the forum site is also a platform for smart questions as well.  After all, such questions are what demonstrates the value of online community forums.  Therefore, if there are questions that do not get users anywhere, then what is a question that gets them to a desired destination?  To begin with, a smart question is one that does not center around the topic of one's homework, but rather one that centers around one's curiosity. 
 
 In a forum post titled ["How does data binding work in AngularJS,"](https://stackoverflow.com/questions/9682092/how-does-data-binding-work-in-angularjs), the asker goes into detail with his question:
 > "I haven't found technical details on their site. It's more or less clear how it works when data is propagated from view to model.  But how does AngularJS track changes of model properties without setters and getters?

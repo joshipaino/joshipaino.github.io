@@ -8,11 +8,12 @@ labels:
   - Forums
   - Skills
   - StackOverflow
+  - Reflection
 ---
 
 The field of software development is one that is always met with issues to solve and questions to be concerned with.  Someone who's made something beyond "Hello World" will most likely see such challenges come to fruition, over and over again, no matter one's skill set.  To encounter such problems and to resolve them is the name of the game of software development and programming in general.  Of course, there are multiple strategies and approaches to addressing hurdles, but when they are not enough in terms of understanding and comprehending, what spawns is the formulation of a question, and with every question should come with an answer. However, as software engineering is a craft in it itself, so too is the creation of a question in order to achieve the end means of a satisfying answer.
 
-<img class="ui medium floated rounded image" src="../images/question-pile.png">
+<img class="ui medium right floated rounded image" src="../images/question-pile.png">
 
 ## No Directions to the Destination
 
@@ -21,7 +22,7 @@ Eric Seven Raymond's ["How To Ask Questions The Smart Way"](http://www.catb.org/
 Here is an excerpt from a post titled, ["Homework Python Questions"](https://stackoverflow.com/questions/25736737/homework-python-questions):
 > "The code below doesn't work and I'm very frustrated. I know the correct outputs should be $310 but somehow my code isn't getting there. This is homework for an edex course intro to CS and Python. I've tried to comment what I think the code is doing but clearly i'm not right. Any help or hints would be very appreciated."
 
-Immediately from the first word, the user violates the principle that one should not post questions relating to their educational assignments.  Though while the user does acknowledge that he requests help or hints and not answers, the topic title nor his text provide context on what users should be searching for.  This, in turn, results in another violation regarding to attached code.  To note the output without context is to give a destination without the directions to get there.  The user also incorporates their emotions and asserting that their strategy "clearly" does not work.  What results in these violations of what constitutes a well-constructed question, are commenters who are immediately lost on how to provide help.  Though while the original poster does provide clarification, to note it afterward is a waste of other people's time.  This question ultimately yielded the product of only one answer, to which that single answer is one that came from the original poster themselves. 
+Immediately from the first word in the title, the user violates the principle that one should not post questions relating to their educational assignments.  Though while the user does acknowledge that he requests help or hints and not answers, the topic title nor his text provide context on what users should be searching for.  This, in turn, results in another violation regarding to attached code.  To note the output without context is to give a destination without the directions to get there.  The user also incorporates their emotions and asserting that their strategy "clearly" does not work.  What results in these violations of what constitutes a well-constructed question, are commenters who are immediately lost on how to provide help.  Though while the original poster does provide clarification, to note it afterward is a waste of other people's time.  This question ultimately yielded the product of only one answer, to which that single answer is one that came from the original poster themselves. 
 
 <img class="ui medium right floated rounded image" src="../images/map.png">
 

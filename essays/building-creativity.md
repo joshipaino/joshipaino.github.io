@@ -7,7 +7,6 @@ date: 2020-01-21
 labels:
   - Software Engineering
   - Technology
-  - Reflection
 ---
 
 ## An Observation

@@ -11,4 +11,4 @@ labels:
 - IDE
 ---
 ## To be Lazy yet To be Perfect
-According to the words of one my introductory to Computer Science professors, "all programmers like to be lazy."  The more I dabble into software engineering the more I find this statement to be true; my professors want to write less lines of code and I now I want to write less lines of code.
+According to the words of one my introductory to Computer Science professors, "all programmers like to be lazy."  The more I dabble into software engineering the more I find this statement to be true; my professors want to write less lines of code and I now I want to write less lines of code.  Yet at the same, I've also realized that we as coders are meticulous in what we type.

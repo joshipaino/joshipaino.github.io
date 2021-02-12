@@ -8,7 +8,6 @@ labels:
   - Forums
   - Skills
   - StackOverflow
-  - Reflection
 ---
 
 The field of software development is one that is always met with issues to solve and questions to be concerned with.  Someone who's made something beyond "Hello World" will most likely see such challenges come to fruition, over and over again, no matter one's skill set.  To encounter such problems and to resolve them is the name of the game of software development and programming in general.  Of course, there are multiple strategies and approaches to addressing hurdles, but when they are not enough in terms of understanding and comprehending, what spawns is the formulation of a question, and with every question should come with an answer. However, as software engineering is a craft in it itself, so too is the creation of a question in order to achieve the end means of a satisfying answer.

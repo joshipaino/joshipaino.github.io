@@ -15,16 +15,16 @@ Truth be told, I don't think I could be a professional artist.  An old middle sc
 
 The websites of today are all about being presentable and stylish.  Raw HTML and CSS in their basic form simply won't cut it.  While with enough tinkering, one can certainly create something pretty.  However, to do so takes a lot of time and effort, and fortunately, I am lazy to design intricate implementation. I say fortunately because it gives me the opportunity to implement a UI framework: the means of quickly setting up a web page layout that can look visually clean and appealing.  These frameworks are the blessing of performing heavy work such as having a concise style of buttons, menus, etc.  All the necessary and intense needs of customization are simply taken care of and available at one's fingertips.
 
-Implementing a UI framework element can be simple as calling a div class and communicating your needs in English.  Building a three-column layout in raw HTML and CSS would require tweaking of margins and paddings to adjust everything properly.  In a UI framework such as [Semantic UI](https://semantic-ui.com/), words can be the only thing that is necessary.  A three-column layout can be simple as ```<div class="ui three column grid container>```. Adding on, one can implement a big blue button with simply ```<button class="ui big blue button">```.  In five words or less, one can lay out a clean presentable set of information.  In five words or less, one can lay out the ground-works of art.
+Implementing a UI framework element can be simple as calling a div class and communicating your needs in English.  Building a three-column layout in raw HTML and CSS would require tweaking of margins and paddings to adjust everything properly.  In a UI framework such as [Semantic UI](https://semantic-ui.com/), words can be the only thing that is necessary to create a modern looking web page.  A three-column layout can be simple as ```<div class="ui three column grid container>```. A navigation bar can be implemented with ```<div class="ui four item ui menu>```. Also, if one really wanted to, a big blue button can be added with just ```<button class="ui big blue button">```.  In five words or less, one can lay out a clean presentable set of information.  In five words or less, one can lay out the ground-works of art.
 
 <div class="ui two column grid container">
   <div class="column">
-    <div class="ui fluid card"><img class="ui floated image" alt="Raw" src="../images/E37_Raw.png"></div>
-    <div class="text">Raw HTML & CSS for the classic vibe</div>
+    <img class="ui floated rounded image" alt="Raw" src="../images/E37_Raw.png">
+    <div class="ui segment">Raw HTML & CSS for the classic vibe</div>
   </div>
   <div class="column">
-    <div class="ui fluid card"><img class="ui floated image" alt="Semantic" src="../images/E37_Semantic.png"></div>
-    <div class="text">Semantic UI for the modern vibe</div>
+    <img class="ui floated rounded image" alt="Semantic" src="../images/E37_Semantic.png">
+    <div class="ui segment">Semantic UI for the modern vibe</div>
   </div>
 </div>
 

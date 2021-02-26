@@ -4,7 +4,7 @@ type: essay
 draft: true
 title: Out With The Old, In With The New
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-24
+date: 2020-02-25
 labels:
 - UI Frameworks
 - Semantic UI
@@ -20,16 +20,18 @@ Implementing a UI framework element can be simple as calling a div class and com
 
 <div class="ui two column grid container">
   <div class="column">
+    <div class="segment"><img class="ui floated image" alt="Raw" src="../images/E37_Raw.png"></div>
     Raw HTML & CSS for the classic vibe
   </div>
   <div class="column">
-    Semantic UI for the modern era
+    <div class="segment"><img class="ui floated image" alt="Semantic" src="../images/E37_Semantic.png"></div>
+    Semantic UI for the modern vibe
   </div>
 </div>
 
 ## It's Actually Not So Simple
 
-Of course such simplicity does present its complications in the same vein of pure HTML and CSS.  Simplification and easy of use are often a double edge sword.  In a framework such as Semantic UI, not everything can be described as big and blue upon initial disappointment.  Not all words can be applied to certain piece of the framework; trial and error is bound to happen on what works.  Additionally, there's also scripts to worry about with pieces such as dropdown menus.  As one can see, there's almost an overwhelming amount of items to comprehend.  Typically, HTMl and CSS are normally described as "easy to pick up, hard to master," and UI frameworks are no exception.
+Of course such simplicity does present its complications in the same vein of pure HTML and CSS.  Simplification and ease of use are often a double edge sword.  In a framework such as Semantic UI, not everything can be described as big and blue upon initial disappointment.  Not all words can be applied to certain piece of the framework; trial and error is bound to happen on what works.  Additionally, there's also scripts to worry about with pieces such as dropdown menus.  As one can see, there's almost an overwhelming amount of items to comprehend.  Typically, HTMl and CSS are normally described as "easy to pick up, hard to master," and UI frameworks are no exception.
 
 Yet, just like simple HTML and CSS, UI frameworks can be satisfying to master.  Overcoming the learning curve allows one to make up the frameworks shortcomings with CSS customization.  If one really wanted everything to be big and blue, they can with enough tweaking (though if we're trying to make art, maybe not everything should be big and blue).  Additionally, with enough practice, understanding a framework and all the aspects of its natural language will be just like learning another language and its vocabulary.  In a field, where websites need to be quickly set up and lay-out, there's a payoff to learning a framework.
 

@@ -10,7 +10,7 @@ labels:
 - HTML & CSS
 ---
 
-Truth be told, I don't think I could be a professional artist.  An old middle school teacher would look at my drawings as if they wanted to say: "What is this?"  Art teachers were a challenge to impress.  In high school, a girl would turn me down after I showed a "cute" little drawing of a cartoon.  Maybe to her, it wasn't so cute actually.  As I recall these memories, they were embarrassing, to say the least, and presenting them here might be too much to handle. From these painful experiences, maybe and perhaps the artistic field was a field I was destined not to be in.  That was what I initially thought until the discovery of UI frameworks.  There was a sense of relief as well as glee when there is something out there that can not only streamline and simplify the designing of web pages but also save me from another artistic embarrassment. 
+Truth be told, I don't think I could be a professional artist.  An old middle school teacher would look at my drawings as if they wanted to say: "What is this?"  Art teachers were a challenge to impress.  In high school, a girl would turn me down after I showed a "cute" little drawing of a cartoon.  Maybe to her, it wasn't so cute actually.  As I recall these memories, they were embarrassing, to say the least, and presenting the "art" here might be too much to handle. From these painful experiences, maybe the artistic field was a field I was destined not to be in.  That was what I initially thought until the discovery of UI frameworks.  There was a sense of relief as well as glee when there is something out there that can not only streamline and simplify the designing of web pages but also save me from another artistic embarrassment. 
 
 ## The Easy Life
 

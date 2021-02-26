@@ -19,12 +19,12 @@ Implementing a UI framework element can be simple as calling a div class and com
 
 <div class="ui two column grid container">
   <div class="column">
-    <img class="ui floated rounded image" alt="Raw" src="../images/E37_Raw.png">
-    <div class="ui segment">Raw HTML & CSS for the classic vibe</div>
+    <div class="ui segment"><img class="ui floated image" alt="Raw" src="../images/E37_Raw.png">
+    <div class="ui divider"></div>Raw HTML & CSS for the classic vibe</div>
   </div>
   <div class="column">
-    <img class="ui floated rounded image" alt="Semantic" src="../images/E37_Semantic.png">
-    <div class="ui segment">Semantic UI for the modern vibe</div>
+    <div class="ui segment"><img class="ui floated image" alt="Semantic" src="../images/E37_Semantic.png">
+    <div class="ui divider"></div>Semantic UI for the modern vibe</div>
   </div>
 </div>
 

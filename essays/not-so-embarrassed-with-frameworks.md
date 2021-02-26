@@ -37,7 +37,7 @@ Yet, just like simple HTML and CSS, UI frameworks can be satisfying to master.  
 
 ## The Big Picture
 
-The layout of the webpages we create, the art we create, will always be something to keep an eye on when designing web applications.  Our technological landscape has made a focus towards the style of web pages on the tiny screens on our pockets and the screens that's the size of paper in addition to our standard laptops and desktops.  UI frameworks are the means to account for the trifecta of devices in a straightforward implementation that leads to the creation of visually pleasing websites.  They are ultimately the way to create a unified piece of art no matter the chosen method of display.  Art with the pencil and paper may have led to the occasional slips of embarrassment.  However, with UI frameworks, artistic embarrassment is something I may not have to worry about.
+The layout of the webpages we create, the art we create, will always be something to keep an eye on when designing web applications.  Our technological landscape has made a focus towards the style of web pages on the tiny screens on our pockets and the screens that's the size of paper in addition to our standard laptops and desktops.  UI frameworks are the means to account for the trifecta of devices in an easy-to-pick-up implementation that results in visually pleasing websites.  They are ultimately the way to create a unified piece of art no matter the chosen method of display.  Art with the pencil and paper may have led to the occasional slips of embarrassment.  However, with UI frameworks, artistic embarrassment is something I may not have to worry about.
 
 
 

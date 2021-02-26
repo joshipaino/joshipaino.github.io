@@ -20,15 +20,15 @@ Implementing a UI framework element can be simple as calling a div class and com
 <div class="ui two column grid container">
   <div class="column">
     <div class="ui segment"><img class="ui floated image" alt="Raw" src="../images/E37_Raw.png">
-    </br>Raw HTML & CSS for the classic vibe</div>
+    Raw HTML & CSS for the classic vibe</div>
   </div>
   <div class="column">
     <div class="ui segment"><img class="ui floated image" alt="Semantic" src="../images/E37_Semantic.png">
-    </br>Semantic UI for the modern vibe</div>
+    Semantic UI for the modern vibe</div>
   </div>
 </div>
 
-## It's Actually Not So Simple
+## Actually Not So Simple
 
 Of course, such simplicity does present its complications in the same vein of pure HTML and CSS.  Simplification and ease of use are often a double edge sword.  In a framework such as Semantic UI, not everything can be described as big and blue upon initial disappointment.  Not all words can be applied to certain pieces of the framework; trial and error are bound to happen on what works or what doesn't work.  Additionally, there are also scripts to worry about with pieces such as dropdown menus.  As one can see, there's almost an overwhelming amount of items to comprehend.  Typically, HTML and CSS are normally described as "easy to pick up, hard to master," and UI frameworks are no exception.
 

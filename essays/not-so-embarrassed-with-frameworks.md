@@ -1,8 +1,7 @@
 ---
 layout: essay
 type: essay
-draft: true
-title: Out With The Old, In With The New
+title: Not so Embarrassed with Frameworks
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-25
 labels:
@@ -20,12 +19,12 @@ Implementing a UI framework element can be simple as calling a div class and com
 
 <div class="ui two column grid container">
   <div class="column">
-    <div class="ui segment"><img class="ui floated image" alt="Raw" src="../images/E37_Raw.png"></div>
-    Raw HTML & CSS for the classic vibe
+    <div class="ui fluid card"><img class="ui floated image" alt="Raw" src="../images/E37_Raw.png"></div>
+    <div class="text">Raw HTML & CSS for the classic vibe</div>
   </div>
   <div class="column">
-    <div class="ui segment"><img class="ui floated image" alt="Semantic" src="../images/E37_Semantic.png"></div>
-    Semantic UI for the modern vibe
+    <div class="ui fluid card"><img class="ui floated image" alt="Semantic" src="../images/E37_Semantic.png"></div>
+    <div class="text">Semantic UI for the modern vibe</div>
   </div>
 </div>
 

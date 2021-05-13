@@ -14,8 +14,11 @@ labels:
 summary: A web application developed in a team of 4 using Javascript, Meteor, and React that allows users to create and share affordable recipes.
 ---
 
-<img class="ui medium floated rounded image" alt="easychef-landing" src="../images/easychef_landing.png">
-
+<div class="ui medium rounded images">
+  <img class="ui image" alt="easychef-landing" src="../images/easychef_landing.png">
+  <img class="ui image" alt="easychef-recipe" src="../images/easychef_recipe.png">
+  <img class="ui image" alt="easychef-search" src="../images/easychef_search.png">
+</div>
 
 The EasyChef project was a web application designed to serve as a final project for ICS 314 that was to encompass all the skills we learned in the class.  EasyChef as an app was designed to be a  website that allows people to sign up as a user to share recipes as well as explore and rate other recipes.  Each recipe contained information such as steps, restrictions, average rating cost.  Vendors and local stores could also sign up to share their inventory of ingredients.  A connection is made between users and vendors that allows each recipe to automatically calculate the lowest total cost of a recipe based on the inventory of all the vendors registered in the system.  This ultimately led to an app where users can discover unique recipes in the UH campus community while also being able to budget and locate affordable ingredients.
 

@@ -10,8 +10,8 @@ labels:
   - React
   - Meteor
   - MongoDB
-  - Agile Project Management
-  summary: A web application developed in a team of 4 using Javascript, Meteor, and React that allows users to create and share affordable recipes.
+  - Agile Project Management 
+summary: A web application developed in a team of 4 using Javascript, Meteor, and React that allows users to create and share affordable recipes.
 ---
 
 <img class="ui medium floated rounded image" alt="easychef-landing" src="../images/easychef_landing.png">

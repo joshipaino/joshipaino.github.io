@@ -53,6 +53,8 @@
         "C++",
         "Java",
         "Javascript",
+        "React",
+        "Meteor",
         "HTML/CSS",
         "Python"
       ]
@@ -82,8 +84,8 @@
         "ICS 211 - Intro II",
         "ICS 212 - Scripting or C/C++",
         "ICS 241 - Discrete Math II",
-        "ICS 311 - Algorithms (In-Progress)",
-        "ICS 314 - Software Engineering I (In-Progress)"
+        "ICS 311 - Algorithms",
+        "ICS 314 - Software Engineering I"
       ]
     },
     {

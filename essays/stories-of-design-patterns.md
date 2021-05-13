@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Stories of Design Patterns
 # All dates must be YYYY-MM-DD format!
-date: 2020-04-29
+date: 2021-04-29
 labels:
 - Design Patterns
 - Meteor

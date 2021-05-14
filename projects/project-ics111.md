@@ -22,4 +22,6 @@ Because this was a solo project, the code relating to the game functionality was
 There were many insights gained from this project, especially as a first-year college student.  I learned to break down the project into separate pieces.  Specifically, to break down the project was to work on separate classes and objects that came together into one product.  Admittedly, the submission of this assignment was not without various faults and or bugs.  Acknowledging such mistakes, however, allowed me to learn the significance of proper time management in order to complete pieces of the project and address errors in a timely manner.  My faults with this project also demonstrated the significance of asking for assistance when no solution is clear.  After all, errors and addressing said errors are frequent in the field of program development.  My overall experience with this project nonetheless demonstrates the roots of my computer science career and serves as a reminder as to why this field is of great interest to me.
 
 
-Github repo located [here.](https://github.com/joshipaino/ICS-111-Project)
+Github repo located here:
+
+<a href="https://github.com/joshipaino/ICS-111-Project"><i class="large github icon "></i>joshipaino/ICS-111-Project</a>

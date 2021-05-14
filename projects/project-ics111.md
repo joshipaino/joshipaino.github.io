@@ -15,7 +15,7 @@ summary: A game made in Java for ICS 111 that utilizes the EZ library.
 
 <img class="ui medium right floated rounded image" alt="ics111-image" src="../images/ICS111proj_icon.png">
 
-This game was one of the solo projects made as part of the ICS 111 course. Using various classes and objects, the game featured a player-controlled surfer that navigates a 2D space in order to avoid tornados that posed as obstacles.  Additionally, the player also needed to collect water in order to stay alive which was another challenge for the player.  All of these items resulted in a game about obstacle navigation and resource collection.
+This game was one of the solo projects made as part of the ICS 111 course. Using various classes and objects, the game featured a player-controlled surfer that navigated a 2D space in order to avoid tornadoes that posed as obstacles.  Additionally, the player also needed to collect water in order to stay alive which was another challenge for the player.  All of these items resulted in a game about obstacle navigation and resource collection.
 
 Because this was a solo project, the code relating to the game functionality was written by me at the time of my freshman year of college.  However, the code that incorporated the ability to implement graphics and sounds belonged to the EZ multimedia library.  Also, image files and audio files that were implemented in the game were also borrowed from the internet.  By using these assets, integrating the EZ library, and writing my own code, I was able to create the final product that is the surf game.   
 

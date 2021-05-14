@@ -33,10 +33,8 @@ function showoff(mySuit)
 }
 console.log(showoff(suititems));
 
-    
-  
-
 ```
+
 ---
 
 ```javascript

@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Building Creativity
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-21
+date: 2021-01-21
 labels:
   - Software Engineering
   - Technology

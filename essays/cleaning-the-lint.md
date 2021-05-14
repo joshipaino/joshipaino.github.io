@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Cleaning the Lint
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-11
+date: 2021-02-11
 labels:
 - Javascript
 - ESLint

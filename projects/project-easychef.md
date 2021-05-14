@@ -11,7 +11,7 @@ labels:
   - Meteor
   - MongoDB
   - Agile Project Management 
-summary: A web application developed in a team of 4 using Javascript, Meteor, React and MongoDB that allows users to create and share affordable recipes.
+summary: A web application developed in a team of 4 using Javascript, Meteor, React, and MongoDB that allows users to create and share affordable recipes.
 ---
 <div class="ui two column grid">
   <div class="column">
@@ -24,7 +24,7 @@ summary: A web application developed in a team of 4 using Javascript, Meteor, Re
   </div>
 </div>
 
-The Easy Chef project was a web application designed to serve as a final project for ICS 314 that was to encompass all the skills we learned in the class.  Easy Chef as an app was designed to be a  website that allows people to sign up as a user to share recipes as well as explore and rate other recipes.  Each recipe contained information such as steps, restrictions, average rating and estimated cost.  Vendors and local stores could also sign up to share their inventory of ingredients.  A connection is made between users and vendors that allows each recipe to automatically calculate the lowest total cost of a recipe based on the inventory of all the vendors registered in the system.  This ultimately led to an app where users can discover unique recipes in the UH campus community while also being able to budget and locate affordable ingredients.
+The Easy Chef project was a web application designed to serve as a final project for ICS 314 that was to encompass all the skills we learned in the class.  Easy Chef as an app was designed to be a website that allows people to sign up as a user to share recipes as well as explore and rate other recipes.  Each recipe contained information such as steps, restrictions, average rating and estimated cost.  Vendors and local stores could also sign up to share their inventory of ingredients.  A connection is made between users and vendors that allows each recipe to automatically calculate the lowest total cost of a recipe based on the inventory of all the vendors registered in the system.  This ultimately led to an app where users can discover unique recipes in the UH campus community while also being able to budget and locate affordable ingredients.
 
 The development of this app was done in a team that consisted of Makana Lacson-Garrett, Kat Shimomura, Karen Wong, as well as myself.  To approach such a large project, we used an agile project management process called "Issue Driven Project Management" (IDPM).  This method of development involved utilizing GitHub projects to assign issues relating to certain tasks and creating branches to work independently while regrouping on a weekly basis to discuss our progress
 
